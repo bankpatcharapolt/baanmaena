@@ -51,25 +51,19 @@
         </div> -->
         <?php include("copyright.php")?>
     </footer>
-
+<!--  bakup 2563-04-05
     <script src="scripts.js"></script>
     <script src="facebooks.js"></script>
-     <! — Load Facebook SDK for JavaScript →
+	-->
+ 
 
 
-<div id=”fb-root”></div>
-<!--
-<! — Your customer chat code →
-<div class="fb-customerchat"
-    attribution="setup_tool"
-    page_id="1679912525672577"
-    theme_color="#0084ff">
-</div>
--->
+	 <!--  bakup 2563-04-05 <div id=”fb-root”></div> -->
+
      <!-- Your customer chat code -->
-      <div class="fb-customerchat"
+      <!-- <div class="fb-customerchat"
         attribution=setup_tool
         page_id="1679912525672577"
   logged_in_greeting="สวัสดีค่ะร้านขนมแม่นา มีอะไรให้ช่วยไหมค่ะ"
   logged_out_greeting="สวัสดีค่ะร้านขนมแม่นา มีอะไรให้ช่วยไหมค่ะ">
-      </div>
+      </div> -->
