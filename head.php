@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Page Title -->
-    <title>ร้านขนมแม่นา</title>
+    <title>บ้านแม่นา</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.jpg" type="image/x-icon">
