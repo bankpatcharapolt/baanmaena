@@ -1,4 +1,4 @@
-<section class="welcome-area section-padding2">
+<section class="welcome-area section-padding2 pt-2">
         <div class="container-fluid" id="welcome">
             <div class="row">
                 <div class="col-md-6 align-self-center">
